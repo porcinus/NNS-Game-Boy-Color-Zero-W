@@ -1,4 +1,5 @@
 # NNS Game Boy Color Zero W : Solder Part
+[Home](https://github.com/porcinus/NNS-Game-Boy-Color-Zero-W/)  
 
 ### What to ignore on the BOM list
 Depending on the features you want to use, not all the components are required to allow the device to run.  
