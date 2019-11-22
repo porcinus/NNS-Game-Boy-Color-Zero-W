@@ -9,6 +9,8 @@ Here is the list of components related to each features:
 - PWM outputs : R17, R23, R36, C7, C8, C32, D1, D2, D4, Q2, Q4, Q5  
 
 ### Polarized components
+Some of this pictures has been taken during early stage of prototyping, traces may not be at the same place.  
+
 - Diodes :  
 ![diode](images/solder/diode.jpg)  
 
