@@ -1,6 +1,7 @@
 # NNS Game Boy Color Zero W Motherboard
 
 The main idea behind this project was to create a motherboard that fit a Game Boy Color with less modifications as possible on the shell.  
+  
 It is based around a Raspberry Pi Zero W, sadly I don't have the needed equipment to debug troubles I could had have using a Compute Module.  
 
 ### Youtube :
