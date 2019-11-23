@@ -8,9 +8,8 @@ It is based around a Raspberry Pi Zero W, sadly I don't have the needed equipmen
 
 
 ### Preview :
-![gbc](images/preview.jpg)  
-![pcb](images/preview_pcb.png)
-
+![gbc](preview/01_lo.jpg)  
+More images can be found [HERE](Preview.md).  
 
 ### Some credits before start :
 Thanks to [Freeplaytech team](https://www.freeplaytech.com/) and [Flavor](https://github.com/TheFlav/) for providing me some hints, especially about power slider / hotkey schematic.  
