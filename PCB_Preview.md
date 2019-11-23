@@ -1,4 +1,4 @@
-# NNS Game Boy Color Zero W : Solder Part
+# NNS Game Boy Color Zero W : PCB Preview
 
 [Home](https://github.com/porcinus/NNS-Game-Boy-Color-Zero-W/)  
 
