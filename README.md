@@ -3,6 +3,8 @@
 The main idea behind this project was to create a motherboard that fit a Game Boy Color with less modifications as possible on the shell.  
 It is based around a Raspberry Pi Zero W, sadly I don't have the needed equipment to debug troubles I could had have using a Compute Module.  
 
+Youtube : [![Youtube](https://img.youtube.com/vi/wbvkZys_Rm4/2.jpg)](https://www.youtube.com/watch?v=wbvkZys_Rm4)  
+
 ![gbc](images/preview.jpg)  
 ![pcb](images/preview_pcb.png)
 
@@ -55,4 +57,5 @@ It also require some modifications on existing OS image to get all the features 
 - [Soldering "guide"](SOLDER.md) : Pseudo guide to help the soldering process.  
 - [Software guide](SOFTWARE.md) : Almost complet guide about image modifications needed, pre-modified image also available.  
 - [Shell modifications guide](https://drive.google.com/file/d/1j6KHX8kt5VlsWwGDrVM5y6LKuopDRET4/view?usp=sharing) : Almost complet guide about shell modifications.  
-
+  
+- [PCB Preview](PCB_Preview.md) : Contain older and current motherboards PCB preview.
