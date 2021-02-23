@@ -34,6 +34,7 @@ It also require some modifications on existing OS image to get all the features 
 - **DS3231** for timekeeping, use main battery for backup.  
 
 ### Note :
+- **PCB** : Need to be 1mm thick.
 - **Raspberry Pi Zero W** : The module need to be solder directly to the board (It is highly recommended to do the whole software part before).  
 - **USB Data** : This connector can only be used for normal purpose, not charging. It require a micro USB to USB adapter. If this port is connected to a PC, the system will start but can't be turn off.  
 - **TFT Screen** : Some modification can be done to black out the white case of the screen, a little modification on the ribbon cable is required.  
